@@ -1,0 +1,13 @@
+{
+  "name": "Multiverse Sketch Pad",
+  "short_name": "Multiverse",
+  "description": "Infinite-zoom sketching with real opacity brushes for shading.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0C0F11",
+  "theme_color": "#0C0F11",
+  "icons": [
+    { "src": "icon.jpg", "sizes": "1024x1024", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}
